@@ -9,4 +9,5 @@ print(f"mul: {x*y}")
 if y == 0:
       print("Can't do it!")
 else: 
-      print(f"mul: {x*y}")
+      print(f"mul: {x/y}")
+
