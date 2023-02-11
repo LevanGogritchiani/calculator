@@ -12,3 +12,4 @@ if y == 0:
 else: 
       print(f"mul: {x/y}")
 
+print("Bye Bye!")
